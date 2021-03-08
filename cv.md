@@ -1,8 +1,8 @@
-> 1. Alexey Koroloyv
-> 2. Git Email: kingov_alexey@mail.ru Контакты для связи
-> 3. 222111asdfasdfasdfКраткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-> 4. 22211asdfasdfasdfНавыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-> 5. 11asdfasdfasdfПримеры кода \*
-> 6. 11asdfasdfasdfОпыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.\*\*
-> 7. 11asdfasdfasdfasdfОбразование (включая курсы, семинары, лекции, онлайн-обучение)
-> 8. 11asdfasdfasdfasdfАнглийский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+> 1. Alexey Korolyov
+> 2. GitHub: [@kingov-alexey](https://github.com/kingov-alexey) Email: kingov_alexey@mail.ru
+> 3. My goal is to learn how to write applications for mobile phones as well as modern web applications. The selected range of tools will allow me to realize my goal.
+> 4. Skills: HTML, CSS, base Git base JS, base React, base ReactNative. I am writing to VSC.
+> 5. `let helloWorld = 'Hello World!'`
+> 6. He has experience working as a system administrator (more eniKey), testing engineer. Now I work as a systems analyst.
+> 7. I graduated from Moscow Technological Institute with B.A. in IT.
+> 8. A2
